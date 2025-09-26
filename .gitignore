@@ -1,0 +1,10 @@
+# Build files
+*.o
+*.bin
+
+# OS Artifacts
+.DS_Store
+
+# Python
+.venv
+__pycache__
